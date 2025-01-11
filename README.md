@@ -35,6 +35,5 @@ Application that finds best combination of transfers while ensuring that the tot
 
 
 ## Generated Tests
-
-All input tests for view purpose are stored in src.test.java.resources.input folder
-All output tests for view purpose are stored in src.test.java.resources.output folder
+   1. All input tests for view purpose are stored in src.test.java.resources.input folder
+   2. All output tests for view purpose are stored in src.test.java.resources.output folder
