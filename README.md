@@ -34,4 +34,7 @@ Application that finds best combination of transfers while ensuring that the tot
     mvn test
 
 
+## Generated Tests
 
+All input tests for view purpose are stored in src.test.java.resources.input folder
+All output tests for view purpose are stored in src.test.java.resources.output folder
