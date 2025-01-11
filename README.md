@@ -19,11 +19,11 @@ Application that finds best combination of transfers while ensuring that the tot
 
 2. Build the project using Maven:
    ```bash
-     mvn clean install
+   mvn clean install
    
 4. Enter folder:
    ```bash
-     cd target
+   cd target
 
 6. Run the application:
       ```bash
