@@ -7,9 +7,9 @@ Application that finds best combination of transfers while ensuring that the tot
 ## Prerequisites
 
 - Java 22.0.2 or newer
-- Maven 3.8+ (for building the project)
-- An IDE like IntelliJ IDEA, Eclipse, or any other editor with Java support (optional)
-
+- Maven 3.8.8+ (for building the project)
+- An IDE like IntelliJ IDEA or any other editor with Java support
+- 
 ## How to Build the Application
 
 1. Clone the repository:
