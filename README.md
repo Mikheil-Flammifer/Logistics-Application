@@ -18,15 +18,19 @@ Application that finds best combination of transfers while ensuring that the tot
    cd Logistics-Application
 
 2. Build the project using Maven:
+   ```bash
      mvn clean install
    
 4. Enter folder:
+   ```bash
      cd target
 
-5. Run the application:
+6. Run the application:
+      ```bash
      java -jar target/demo-0.0.1-SNAPSHOT.jar
 
-6. Run all Unit tests:
+8. Run all Unit tests:
+   ```bash
     mvn test
 
 
